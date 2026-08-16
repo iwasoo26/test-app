@@ -8,7 +8,7 @@ export default function Home() {
         My First Claude Code App
       </h1>
       <p className="text-lg text-zinc-600 dark:text-zinc-400">
-        Claude Codeで作った最初のWebアプリです
+        テストアプリです
       </p>
     </div>
   );
